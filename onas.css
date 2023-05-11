@@ -1,0 +1,57 @@
+body{
+    background-image: url(image/backdown.jpg);
+}
+h1{
+margin-top: -10px;
+   text-align: center;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 25px; 
+}
+.svin{ 
+    margin-top: -15px ;
+   margin-left: 1620px;
+    position: fixed;
+    width: 125px;
+    height: 125px;
+    border-radius: 100px;
+    box-shadow:0px  8px 30px black;
+
+}
+.div1{
+ margin-top: -102px;
+font-size: 25px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+display: table;
+margin: 5px;
+word-wrap: break-word; 
+   white-space: pre-line;
+}
+
+.div2{
+   margin-top: 25px;
+    font-size: 25px;
+    position: relative;
+    text-align: right;
+    padding: 50px;
+   
+}
+
+.inst{
+    width: 100px;
+    height: 100px;
+    border-radius: 35px;
+    border: solid rgb(207, 4, 207) 1px;
+
+}
+.href{
+ margin-top: 10;
+    margin-left: 1750px;
+}
+.foot{
+    background-color: whitesmoke;
+}
+.div3{
+text-align: center;
+font-size: 75px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
